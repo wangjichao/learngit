@@ -2,4 +2,4 @@ this is new file.txt
 add line 1 new line 2
 add line 2
 我就是来测试的
-
+远程test分支的test.txt文件已经被修改了
