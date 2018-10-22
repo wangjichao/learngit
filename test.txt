@@ -3,8 +3,6 @@ add line 1 new line 2
 add line 2
 我就是来测试的
 远程test分支的test.txt文件已经被修改了
-
 我是test分支，我在服务器上的内容已被修改
-
-
+我不知道远程的情况，我完成了一个功能
 
